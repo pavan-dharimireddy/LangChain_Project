@@ -10,3 +10,6 @@ venv/
 # Editor / OS
 .vscode/
 .DS_Store
+
+# Claude Code project instructions
+CLAUDE.md
